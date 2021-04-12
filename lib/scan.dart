@@ -60,6 +60,4 @@ class _ScanPageState extends State<ScanPage> {
       ),
     );
   }
-
-  //its quite simple as that you can use try and catch staatements too for platform exception
 }

@@ -23,9 +23,6 @@ class _HomePageState extends State<HomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: <Widget>[
-            // Image(
-            //     image: NetworkImage(
-            //         "https://www.strikingly.com/content/static/c80863fcc672de0853cb7a4ea5f1a7cb/d17c2/2020-07-28-qr-code-generator.jpg")),
             flatButton("Scan the Code", ScanPage()),
             SizedBox(
               height: 20.0,
